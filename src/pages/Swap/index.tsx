@@ -493,7 +493,7 @@ const Swap = () => {
                   <Text color="failure">
                     Please use{' '}
                     <StyledLink external href="https://exchange.pancakeswap.finance">
-                      PancakeSwap V2
+                      JagoSwap V2
                     </StyledLink>{' '}
                     to make this trade
                   </Text>
